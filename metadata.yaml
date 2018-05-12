@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42236'
     url: http://www.gutenberg.org/2009/agents/42236
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45440#Note-book-No.-1-of-the-Kickapoo-Club
 gutenberg_issued: '2014-04-19'
 gutenberg_type: Text
 identifiers:
